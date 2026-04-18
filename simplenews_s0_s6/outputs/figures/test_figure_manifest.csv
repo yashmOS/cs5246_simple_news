@@ -1,0 +1,10 @@
+figure
+test_output_length_refactored.png
+test_readability_faithfulness_bubble_refactored.png
+test_readability_vs_faithfulness_refactored.png
+test_rougel_bar_refactored.png
+test_rougel_bootstrap_ci_refactored.png
+test_s3_effect_summary_refactored.png
+test_s4_guard_behaviour_refactored.png
+test_s4_selector_sweep_heatmap_refactored.png
+test_unsupported_mean_refactored.png

@@ -1,0 +1,12 @@
+metric,value
+fallback_true_rate,0.7134899912967798
+fallback_false_rate,0.2865100087032202
+same_as_scaffold_rate,0.7261966927763273
+len_ok_rate_35_110,0.8281984334203656
+raw_avg_word_count,63.349086161879896
+entity_f1_pass_rate,0.6218450826805918
+number_f1_pass_rate,0.5529155787641428
+date_f1_pass_rate,0.6687554395126196
+entity_unsupported_pass_rate,0.8984334203655352
+number_unsupported_pass_rate,0.9836379460400348
+date_unsupported_pass_rate,0.9973890339425587

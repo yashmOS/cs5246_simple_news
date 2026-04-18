@@ -1,0 +1,3 @@
+metric,value,label
+fallback_true_rate,0.7134899912967798,Fallback
+fallback_false_rate,0.2865100087032202,Accepted

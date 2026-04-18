@@ -1,0 +1,2 @@
+max_sentences,top_entity_k,similarity_threshold,require_number_coverage,require_date_coverage,objective,avg_rouge1,avg_rougel,avg_fact_f1,avg_unsupported_ratio,avg_word_count,avg_sentence_count,num_examples
+5,8,0.05,True,True,0.3569326335565847,0.22905962527094925,0.1586251179094074,0.6871005867977129,0.0,113.538,4.992,500
