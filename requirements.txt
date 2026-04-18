@@ -1,8 +1,0 @@
-pandas
-numpy
-scikit-learn
-networkx
-matplotlib
-jupyter
-notebook
-datasets
